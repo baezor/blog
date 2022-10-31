@@ -1,30 +1,21 @@
-# My Blog using Next.js, Markdown, and TypeScript
+# My Blog
+
+## Tech Stack
+
+- Next.js
+- TypeScript
+- Markdown
 
 ## Build setup
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
 ```bash
-npx create-next-app --example blog-starter blog-starter-app
+git clone git@github.com:baezor/blog.git
+npm i
+npm run dev
 ```
 
-```bash
-yarn create next-app --example blog-starter blog-starter-app
-```
-
-```bash
-pnpm create next-app --example blog-starter blog-starter-app
-```
-
-Your blog should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Your blog should be up and running on [http://localhost:3000](http://localhost:3000)!
 
 # Notes
 
-<<<<<<< HEAD
-`blog-starter` uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
-=======
-
 - It uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
-  > > > > > > > b44cf322f1f4a82508a73ade8255272ba6369132
